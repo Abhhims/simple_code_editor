@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/simple_code_editor/static/css/main.51faad24.css",
+    "main.js": "/github.io/simple_code_editor/static/js/main.b3f3685c.js",
+    "static/js/453.728a0834.chunk.js": "/github.io/simple_code_editor/static/js/453.728a0834.chunk.js",
+    "index.html": "/github.io/simple_code_editor/index.html",
+    "main.51faad24.css.map": "/github.io/simple_code_editor/static/css/main.51faad24.css.map",
+    "main.b3f3685c.js.map": "/github.io/simple_code_editor/static/js/main.b3f3685c.js.map",
+    "453.728a0834.chunk.js.map": "/github.io/simple_code_editor/static/js/453.728a0834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51faad24.css",
+    "static/js/main.b3f3685c.js"
+  ]
+}
